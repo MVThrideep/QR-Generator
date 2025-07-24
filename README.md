@@ -71,7 +71,7 @@ QR Code Project/
 
 ## Author
 
-Shaik Shahid Aleem
+M V Thrideep
 
 ## License
 
